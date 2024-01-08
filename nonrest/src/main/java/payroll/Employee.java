@@ -10,6 +10,7 @@ import javax.persistence.Id;
  * Employee is the main entity used 
  * This is skeleton based
  * need to be implemented
+ * for project
  */
 @Entity
 class Employee {
