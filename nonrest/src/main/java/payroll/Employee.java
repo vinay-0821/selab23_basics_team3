@@ -8,7 +8,7 @@ import javax.persistence.Id;
 
 /**
  * Employee is the main entity used 
- * 
+ * This is skeleton based
  */
 @Entity
 class Employee {
